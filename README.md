@@ -5,4 +5,4 @@ git clone https://github.com/Hridoy0777/FOT-WORLD
 
 cd FOT-WORLD
 
-python FOT-WORLD.py
+python3 FOT-WORLD.py
