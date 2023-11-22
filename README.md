@@ -8,4 +8,4 @@ git clone https://github.com/Hridoy0777/FOT-WORLD.git
 
 cd FOT-WORLD
 
-python FOT.py
+python FOT-WORLD.py
